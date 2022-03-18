@@ -1,0 +1,14 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+    background: rgb(244, 244, 244);
+}
+
+.login-container{
+    margin-left:-50px;
+    margin-top:-50px;
+}
+
+.social-login{
+    margin-left: 50px;
+}
